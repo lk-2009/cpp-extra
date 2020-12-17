@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="extra" Database="" Version="10.0.0">
+  <Project Name="pg_20_1" Path="pg_20_1/pg_20_1.project" Active="No"/>
+  <Project Name="pg_20_2" Path="pg_20_2/pg_20_2.project" Active="No"/>
+  <Project Name="pg_21_3" Path="pg_21_3/pg_21_3.project" Active="No"/>
+  <Project Name="pbi_460" Path="pbi_460/pbi_460.project" Active="No"/>
+  <Project Name="pg_22_5" Path="pg_22_5/pg_22_5.project" Active="No"/>
+  <Project Name="pg_23_7" Path="pg_23_7/pg_23_7.project" Active="No"/>
+  <Project Name="pg_22_6" Path="pg_22_6/pg_22_6.project" Active="No"/>
+  <Project Name="20201217_1" Path="20201217_1/20201217_1.project" Active="No"/>
+  <Project Name="20201217_2" Path="20201217_2/20201217_2.project" Active="No"/>
+  <Project Name="20201217_3" Path="20201217_3/20201217_3.project" Active="No"/>
+  <Project Name="pg57_ex1" Path="pg57_ex1/pg57_ex1.project" Active="No"/>
+  <Project Name="pb57_ex2" Path="pb57_ex2/pb57_ex2.project" Active="No"/>
+  <Project Name="pb57_ex3" Path="pb57_ex3/pb57_ex3.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="pg_20_1" ConfigName="Debug"/>
+      <Project Name="pg_20_2" ConfigName="Debug"/>
+      <Project Name="pg_21_3" ConfigName="Debug"/>
+      <Project Name="pbi_460" ConfigName="Debug"/>
+      <Project Name="pg_22_5" ConfigName="Debug"/>
+      <Project Name="pg_23_7" ConfigName="Debug"/>
+      <Project Name="pg_22_6" ConfigName="Debug"/>
+      <Project Name="20201217_1" ConfigName="Debug"/>
+      <Project Name="20201217_2" ConfigName="Debug"/>
+      <Project Name="20201217_3" ConfigName="Debug"/>
+      <Project Name="pg57_ex1" ConfigName="Debug"/>
+      <Project Name="pb57_ex2" ConfigName="Debug"/>
+      <Project Name="pb57_ex3" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="pg_20_1" ConfigName="Release"/>
+      <Project Name="pg_20_2" ConfigName="Release"/>
+      <Project Name="pg_21_3" ConfigName="Release"/>
+      <Project Name="pbi_460" ConfigName="Release"/>
+      <Project Name="pg_22_5" ConfigName="Release"/>
+      <Project Name="pg_23_7" ConfigName="Release"/>
+      <Project Name="pg_22_6" ConfigName="Release"/>
+      <Project Name="20201217_1" ConfigName="Release"/>
+      <Project Name="20201217_2" ConfigName="Release"/>
+      <Project Name="20201217_3" ConfigName="Release"/>
+      <Project Name="pg57_ex1" ConfigName="Release"/>
+      <Project Name="pb57_ex2" ConfigName="Release"/>
+      <Project Name="pb57_ex3" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
